@@ -1,2 +1,3 @@
 # Assignments_CSE205_2020Spring
-Personal storage of all the assignments I wrote for ASU_CSE 205: Object-Oriented Program &amp; Data
+Personal storage of all the assignments entirly wrote by me for ASU_CSE 205: Object-Oriented Program &amp; Data
+All rights reserved, following the ASU Student Academic Integrity and Collaboration Policy
